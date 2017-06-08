@@ -1,0 +1,861 @@
+,Occupation,Subset,Mean
+0,Accountant,0,5.7
+1,Actor,5,5.7
+2,Actress,6,5.5
+3,Actuary for an Insurance Company,3,5.0
+4,Acupuncturist,1,4.5
+5,Addressing-Machine Operator,11,3.5
+6,Administrative Assistant,2,4.8
+7,Advertising Executive,2,5.4
+8,Advertising Salesman,11,4.1
+9,Aerobics Instructor,8,3.9
+10,Aeronautical Engineer,8,6.9
+11,Agricultural Fruit Inspector for Insect Control,9,5.2
+12,Agricultural Research Director,5,6.0
+13,Agricultural Research Engineer,4,6.3
+14,Aide on a Land Survey Crew,1,3.7
+15,Air Conditioning Mechanic,11,4.6
+16,Air Traffic Controller,6,6.2
+17,Aircraft Electrician,2,5.7
+18,Aircraft Riveter,6,4.6
+19,Airline flight attendant,7,4.6
+20,Airline Flight Engineer,3,6.2
+21,Airline Ground Crew Chief,8,4.8
+22,Airline Pilot,5,6.6
+23,Airline Refueler,6,4.6
+24,Airline Ticket Agent,2,4.0
+25,Airplane Mechanic,3,5.5
+26,Airport Security Screener,12,4.4
+27,Ambulance Driver,8,4.6
+28,Animal Shelter Worker,10,4.1
+29,Animal Trapper,9,3.3
+30,Animal-Control Officer,6,4.1
+31,Apartment Building Manager,7,4.3
+32,App Designer,6,5.5
+33,Apprentice Electrician,5,4.6
+34,Apprentice Plumber,12,4.3
+35,Apprentice Sheet Metalsmith,4,3.8
+36,Apprentice to a Machinist,2,4.0
+37,Apprentice to a Master Craftsman,8,4.1
+38,Architect,6,6.7
+39,Army Private,5,4.9
+40,Artificial Limb Fitter,5,5.4
+41,Assembly Line Worker,0,3.7
+42,Astronaut,4,7.4
+43,Attendant in an Ice-Skating Rink,9,2.6
+44,Auctioneer,2,3.9
+45,Author,10,6.3
+46,Auto Wrecker,3,3.2
+47,Autobody Repairer,7,4.3
+48,Automobile Dealer,10,4.3
+49,Automobile Mechanic,5,4.7
+50,Automobile Painter,10,4.1
+51,Automobile Repairman,6,4.6
+52,Automobile Repairwoman,4,4.6
+53,Backhoe Operator,9,4.3
+54,Bail Bond Provider,10,4.2
+55,Bailing-Machine Operator,9,3.9
+56,Baker,11,4.6
+57,Ballet Dancer,9,4.9
+58,Bank Examiner,9,5.3
+59,Bank Teller,7,4.2
+60,Banker,0,6.1
+61,Barber,0,4.0
+62,Bartender,0,3.6
+63,Battery Assembler,10,3.8
+64,Beauty Operator,12,4.0
+65,Beer Maker,1,3.7
+66,Bell Boy in a Hotel,3,3.0
+67,Betting Clerk,12,2.9
+68,Bicycle Messenger,3,3.3
+69,Bicycle Repairer,10,3.3
+70,Bill Collector,2,3.0
+71,Billing Clerk,3,4.3
+72,Billing-Machine Operator,4,4.2
+73,Biologist,3,6.9
+74,Biomedical Engineer,5,6.9
+75,Blackjack Dealer,1,2.9
+76,Black-Top-Machine Operator,1,3.7
+77,Blast Furnace Helper in a Steel Mill,3,3.5
+78,Blasting Powder Carrier in a Mine,3,3.7
+79,Boardinghouse Keeper,2,3.2
+80,Boilermaker,4,3.9
+81,Bookbinding Machine Operator,7,3.6
+82,Bookkeeper,5,4.6
+83,Boom Operator at a Marine Loading Dock,6,4.7
+84,Border Patrol Agent,1,5.3
+85,Bottle Capping Machine Operator,11,3.0
+86,Bottled-Water Delivery Driver,11,3.1
+87,Bottle-Washing-Machine Operator,4,2.8
+88,Box-Folding-Machine Operator,11,3.2
+89,Branch Manager of a Bank,7,5.7
+90,Bricklayer,5,4.2
+91,Bridal Consultant,1,3.7
+92,Bridge Ironworker,5,4.8
+93,Brokerage Clerk,2,4.8
+94,Budget Examiner,6,4.9
+95,Building Contractor,3,5.4
+96,Bulldozer Mechanic,9,4.3
+97,Burglar Alarm Installer,5,4.1
+98,Bus Driver,0,3.9
+99,Business Entrepreneur,2,5.8
+100,Business Services Sales Representative,10,4.5
+101,Businessman,10,5.5
+102,Butcher in a Store,1,3.7
+103,Cabinet Maker,3,4.4
+104,Cable TV Installer,1,3.6
+105,Cafeteria Supervisor,10,4.1
+106,Camp Counselor,7,3.8
+107,Campaign Fundraiser,4,4.1
+108,Canal Barge Pilot,9,4.8
+109,Car Alarm Installer,4,3.5
+110,Car Rental Agent,1,3.0
+111,Cargo Router,6,3.9
+112,Cargo Supervisor for an Airline,11,4.3
+113,Carpenter's Helper,5,3.3
+114,Carpet Cutter for a Rug Manufacturer,6,3.3
+115,Carpet Cutter in a Rug Store,5,3.1
+116,Carpet Layer,9,3.5
+117,Car-Tester for an Automobile Factory,1,4.3
+118,Carwash Attendant,10,2.9
+119,Caseworker Aide,8,4.5
+120,Cash Register Repairman,12,3.8
+121,Cashier in a Supermarket,11,3.4
+122,Cashier Supervisor,8,3.8
+123,Casino Cashier,12,3.4
+124,Casino Manager,4,4.6
+125,Casino Slots Supervisor,7,3.7
+126,Cattle Brander,1,2.9
+127,Cattle Killer in a Slaughtering Plant,12,2.8
+128,Cattle Rancher,12,4.8
+129,Cement Finisher,10,4.1
+130,Ceramic-Tile Setter,8,3.6
+131,Cheese Maker,4,3.6
+132,Chemical Engineer,9,6.5
+133,Chemical Laboratory Technician,1,5.5
+134,Chemist,8,6.7
+135,Chief Technology Officer,9,5.8
+136,Chiropractic Assistant,10,5.1
+137,Chiropractor,3,5.9
+138,Cigarette-Making Machine Operator,7,3.0
+139,Cinematographer,5,5.1
+140,City Planning Aide,5,5.2
+141,Civil Engineer,11,6.4
+142,Claims Clerk,7,4.1
+143,Classified Ad Taker for a Newspaper,10,3.5
+144,Cleaning Woman in Private Homes,1,2.9
+145,Clergyman,12,5.8
+146,Clerk in an Office,12,3.8
+147,Clerk Opening New Accounts at Bank,4,4.3
+148,Clinical Audiologist,9,5.7
+149,Cloth Dyer,5,2.9
+150,Coal Hauler Operator,12,3.6
+151,Coal Miner,5,4.4
+152,College Admissions Officer,7,5.1
+153,College or University President,5,7.1
+154,College Professor,10,6.9
+155,Colonel in the Army,1,6.7
+156,Combination Machine Tool Operator,4,4.0
+157,Commercial Artist,1,4.7
+158,Commercial Fisher,8,3.9
+159,Community Organization Worker,10,5.0
+160,Comparison Shopper for a Grocery Store,3,3.5
+161,Computer Hardware Engineer,6,6.5
+162,Computer Helpdesk Technician,10,4.7
+163,Computer Network Engineer,1,5.8
+164,Computer Programmer,12,6.0
+165,Computer Repairer,8,4.9
+166,Computer Room Supervisor for a Business Firm,6,5.3
+167,Computer Scientist,11,6.4
+168,Computer Security Analyst,5,6.0
+169,Computer Software Developer,7,6.0
+170,Computer Systems Analyst,4,6.2
+171,Computer Tape Librarian,1,4.1
+172,Computer Technician,2,5.4
+173,Computing Machine Operator,3,4.8
+174,Construction Foreman,1,5.1
+175,Construction Laborer,11,4.1
+176,Construction Riveter,9,4.3
+177,Conveyor-Belt Operator,4,3.2
+178,Cook in a Private Home,12,3.9
+179,Cook in a Restaurant,0,3.9
+180,Copy Editor,3,4.6
+181,Corporate Financial Analyst,8,5.6
+182,Corporate Meeting Planner,2,5.2
+183,Corporate Trainer,12,5.2
+184,Corrections Officers Supervisor,4,5.5
+185,Correspondence Clerk,9,3.7
+186,Cost Analyst,5,5.4
+187,Cotton Picker,11,2.5
+188,Counter Clerk in a Auto Parts Store,3,3.4
+189,Counter Clerk in a Fast Food Place,2,2.8
+190,County Agricultural Agent,12,5.0
+191,County Sheriff,5,5.9
+192,Court Bailiff,11,4.4
+193,Court Clerk,10,5.0
+194,Court Transcriber,8,4.8
+195,Crane-Crew Supervisor at a Port Facility,1,4.9
+196,Crating and Moving Estimator,8,3.6
+197,Credit Manager,5,4.9
+198,Credit Risk Analyst,7,5.1
+199,Credit-Card Record Clerk for a Department Store,11,3.4
+200,Crop-Duster Pilot,2,4.5
+201,Crude Oil Tester in a Petroleum Refinery,9,4.7
+202,Crushing-Machine Operator,4,3.2
+203,Currency Sorter in a Bank,8,3.9
+204,Custom Seamstress,4,4.4
+205,Customer-Complaint Clerk,1,3.6
+206,Customs Inspector,2,4.9
+207,Cutting Machine Operator,6,3.5
+208,Dairy Scientist,2,5.5
+209,Dairy Technologist,10,5.0
+210,Data Entry Clerk,4,4.0
+211,Database Security Administrator,11,5.5
+212,Day Care Aide,6,3.6
+213,Day Laborer,1,3.0
+214,Debt Management Counselor,11,4.8
+215,Deck Engineer on a Ship,11,5.0
+216,Deck Officer on a Commercial Fishing Boat,8,4.3
+217,Deep-Sea Diver,10,5.0
+218,Delicatessen Counter Clerk in a Grocery Store,3,3.5
+219,Dental Crown and Bridge Maker,6,5.3
+220,Dental Hygienist,2,5.3
+221,Dentist,4,6.7
+222,Dentist's Attendant,2,4.8
+223,Department Head in a State Government,0,6.6
+224,Desk Clerk in a Hotel,6,3.5
+225,Desktop Publishing Specialist,11,4.8
+226,Development Technician in a Factory,11,4.7
+227,Dialysis Technician,7,5.5
+228,Die Grinder,12,3.9
+229,Diesel Motor Mechanic,7,4.4
+230,Dietary Technician,4,5.2
+231,Dietitian in a Hospital,5,5.4
+232,Dirt Shoveler in a Mine,6,3.5
+233,Disc Jockey,2,4.0
+234,Dishwasher,9,2.8
+235,Disposal Plant Operator,11,4.2
+236,Ditch Digger,12,2.7
+237,Dog Groomer,11,3.3
+238,Donut Machine Operator,8,2.8
+239,Door Fitter in an Automobile Production Line,9,4.2
+240,Door-to-Door Salesman,10,2.9
+241,Dormitory Counselor,6,3.9
+242,Draftsman,9,4.8
+243,Drama Therapist,11,4.4
+244,Drawbridge Tender,12,3.6
+245,Dredge Operator,8,4.1
+246,Drilling Machine Operator in a Mine,4,4.1
+247,Drill-Press Operator,10,4.3
+248,Driver'S License Examiner,10,4.1
+249,Driving School Teacher,7,4.2
+250,Drug or Alcohol Rehabilitation Counselor,8,4.8
+251,Druggist,7,5.8
+252,Dry Cleaner,8,3.0
+253,Dynamite Blaster,2,4.5
+254,Economic Research Assistant,6,5.4
+255,Economist,12,6.0
+256,Egg Crate Packer,7,2.6
+257,Eldercare Aide,5,4.9
+258,Electric Motor Repairer,11,4.2
+259,Electric power lineman,6,5.2
+260,Electric Power Station Attendant,1,4.2
+261,Electrical Engineer,12,6.7
+262,Electrical Technician,10,5.3
+263,Electrician,6,5.2
+264,Electric-Meter Installer,10,4.2
+265,Electrolysis Operator,1,3.9
+266,Elevator Operator in a Building,12,3.2
+267,Elevator Repairer,7,4.3
+268,Elevator Safety Inspector,6,4.9
+269,Eligibility Interviewer for a Social Welfare Agency,3,5.0
+270,Embalmer,3,4.5
+271,Emergency Services Coordinator,6,5.9
+272,Employee Benefits Director,11,5.2
+273,Employee Benefits Specialist,11,5.2
+274,Employee Development Director,12,5.7
+275,Employment Clerk,11,3.9
+276,Engineer,8,6.6
+277,Engineering Design Manager,1,5.9
+278,Engineer's Aide,12,5.0
+279,Enlisted Man in the Army,2,5.3
+280,Envelope Stuffer,5,2.5
+281,Environmental Compliance Inspector,9,5.4
+282,Environmental Scientist,11,6.5
+283,Equipment Purchasing Agent,8,4.4
+284,Event Planner,3,4.5
+285,Executive Chef,2,5.7
+286,Exercise Therapist,12,4.9
+287,Faith Healer,4,3.5
+288,Farm Foreman,7,4.7
+289,Farm Laborer,3,3.5
+290,Farm Manager,1,5.0
+291,Farm Owner and Operator,0,5.2
+292,Farm Produce Buyer,3,4.6
+293,Fashion Designer,3,5.4
+294,Fashion Model,6,5.3
+295,Fax Machine Operator,11,3.2
+296,Fence Installer,7,3.3
+297,Fiber Machine Tender,6,3.7
+298,File Clerk,5,3.5
+299,Filling Station Attendant,2,3.1
+300,Film Editor,4,5.2
+301,Fingerprinter,7,3.9
+302,Fire Alarm Installer,6,4.5
+303,Fire Department Lieutenant,6,6.2
+304,Fire Inspector,9,5.5
+305,Fireman,8,5.7
+306,First Aid Nurse,10,5.6
+307,Fitter in a Shipyard,8,3.8
+308,Floor Refinisher,7,3.7
+309,Flour Miller,3,3.2
+310,Foam Machine Operator,11,3.4
+311,Food Processing Worker,11,3.8
+312,Foot Doctor,8,6.3
+313,Foreign Language Translator,11,5.5
+314,Foreman in a Factory,6,4.9
+315,Forester's Aide,10,4.4
+316,Forge Operator in a Steel Mill,7,4.1
+317,Fork-Lift Driver,8,3.8
+318,Fortune Teller,12,2.6
+319,Foundry Equipment Mechanic,12,4.4
+320,Freight Checker,3,3.4
+321,Freight Elevator Operator,1,3.2
+322,Freight Shipping Agent,7,4.3
+323,Funeral Director,10,4.9
+324,Funeral Home Assistant,2,4.4
+325,Funeral Home Director,2,5.5
+326,Furniture Refinisher,4,3.9
+327,Game Warden,5,4.9
+328,Gang Boss for a Mining Company,3,4.2
+329,Garbage Collector,9,3.8
+330,Gardener,6,3.5
+331,General contractor,2,5.0
+332,General Manager of a Manufacturing Plant,7,5.4
+333,General Manager of a Moving and Storage Company,8,3.8
+334,Geological Technician,3,6.0
+335,Geologist,10,6.3
+336,Gift Wrapper in a Department Store,5,3.1
+337,Glass Engraver,5,4.2
+338,Government Meat Grader,8,4.3
+339,Grain Farmer,11,4.9
+340,Grocery Bagger,6,2.8
+341,Ground Crew Supervisor in a Public Park,11,3.9
+342,Guidedog Trainer,9,4.6
+343,Hair Stylist,11,3.8
+344,Hand Lace Maker,12,3.8
+345,Hazardous Materials Removal Worker,8,4.8
+346,Head Cook,1,4.0
+347,Head Usher,7,3.4
+348,Hearing Aid Technician,6,4.8
+349,Heat-Sealing-Machine Operator,9,4.3
+350,Heavy-Equipment Operator on a Road Construction Job,3,4.5
+351,High School Teacher,5,6.1
+352,Highway Engineer,10,6.0
+353,Highway Maintenance Person,8,4.3
+354,Hog Raiser,4,3.5
+355,Home Improvement Salesperson,4,3.7
+356,Home Products Demonstrator,5,3.4
+357,Home Refrigerator Repairer,12,3.9
+358,Home-Care Aide for the Elderly,9,5.1
+359,Horse Breaker,8,3.6
+360,Horse Breeder,1,4.3
+361,Horse Stable Attendant,7,3.1
+362,Hospital Administrator,3,6.6
+363,Hospital Attendant,10,4.6
+364,Hospital-Admissions Officer,4,5.6
+365,Hotel Chambermaid,12,2.8
+366,House Carpenter,6,4.6
+367,House Painter,9,3.9
+368,House Parent in Institution,7,4.4
+369,Housekeeper in a Private Home,0,3.5
+370,Houseparent in a State Reformatory,3,4.0
+371,Human Resources Consultant,2,5.4
+372,Human Services Coordinator,1,4.8
+373,Importer,5,4.6
+374,Income-Tax Preparer,9,5.1
+375,Infantry Unit Leader,3,5.9
+376,Information Technology Systems Director,10,5.7
+377,Instructor in a School for the Handicapped,6,5.6
+378,Insulation Installer,8,3.7
+379,Insurance Agent,0,4.8
+380,Insurance Application Evaluator,8,4.1
+381,Insurance Claims Investigator,7,4.7
+382,Insurance Policy Information Clerk,9,4.2
+383,Insurance Sales Supervisor,9,4.8
+384,Insurance Underwriter,7,4.5
+385,Interior Decorator,4,4.8
+386,Irrigation Pump Installer,4,3.9
+387,Janitor,0,3.0
+388,Jazz Musician,10,5.6
+389,Jewelry Maker,5,4.5
+390,Jewelry Repairman,4,4.3
+391,Job Counselor,9,4.6
+392,Journalist,4,5.5
+393,Justice of a Municipal Court,5,6.9
+394,Key Maker,11,3.1
+395,Kitchen Steward,5,3.7
+396,Laborer in a Commercial Fish Hatchery,2,3.4
+397,Landlord,9,4.7
+398,Lathe Operator,1,3.9
+399,Laundress,9,3.3
+400,Law Clerk For Judge,11,5.7
+401,Lawn Mower Engine Repairer,9,3.8
+402,Lawyer,0,6.4
+403,Leaflet Distributor,5,2.9
+404,Lens Grinder,7,4.3
+405,Library Book Shelver,7,3.2
+406,Library Circulation Technician,1,3.9
+407,Licensed Practical Nurse,5,6.5
+408,Life Science Taxonomist,8,4.8
+409,Lifeguard,12,4.1
+410,Lime Kiln Operator,10,4.1
+411,Loan Officer,10,4.5
+412,Loan Processor for a Bank,8,4.9
+413,Lobbyist,7,4.2
+414,Local Delivery Truck Driver,10,4.2
+415,Local Official of a Labor Union,11,4.5
+416,Locksmith,12,4.1
+417,Locomotive Electrician,3,5.5
+418,Locomotive Engineer,3,5.7
+419,Locomotive Repairman,8,4.9
+420,Logger,11,3.8
+421,Logistics Planner,1,5.0
+422,Longshoreman,11,3.8
+423,Loom Fixer in a Textile Mill,1,3.7
+424,Loom Operator,7,3.4
+425,Lost-and-Found Clerk in a Department Store,2,3.1
+426,Lumber Stacker,12,3.0
+427,Lunchroom Operator,8,3.4
+428,Machine Assembler,7,3.9
+429,Machine Attendant in a Factory,3,3.7
+430,Machine Feeder in a Manufacturing Plant,4,3.3
+431,Machine Oiler,3,3.4
+432,Machine Operator in a Factory,5,4.3
+433,Machine Operator in a Shoe Factory,2,3.5
+434,Machine Operator in a Textile Mill,2,3.8
+435,Machine Set-up Man in a Factory,3,4.1
+436,Machinist,3,4.4
+437,Magazine Editor,2,5.5
+438,Mailman,7,4.7
+439,Mail-Order Clerk,9,3.9
+440,Mailroom Clerk for a Private Company,10,3.7
+441,Mailroom Supervisor for a Private Company,9,4.2
+442,Maitre D',4,3.6
+443,Management Consultant,1,4.9
+444,Manager,9,5.2
+445,Manager for a Fast Food Franchise,10,4.6
+446,Manager for a Motel Chain,12,5.0
+447,Manager of a Cement Factory,3,4.5
+448,Manager of a Commercial Bakery,11,4.7
+449,Manager of a Local TV Station,12,5.8
+450,Manager of a Mail Order House,10,4.2
+451,Manager of a Movie Theater,1,3.6
+452,Manager of a Pulp Mill,2,4.1
+453,Manager of a Real Estate Office,6,5.2
+454,Manager of a Supermarket,0,4.9
+455,Manager of an Automobile Plant,9,5.5
+456,Manager of an Escort Service,12,3.3
+457,Manager of United Way Charity,10,5.5
+458,Manicurist,4,3.5
+459,Manufacturer's Representative,2,4.6
+460,Marine Engineer,2,6.3
+461,Market Research Interviewer,3,5.0
+462,Market Research Investigator,3,5.6
+463,Marketing Representative for a Manufacturing Firm,3,5.2
+464,Massage Therapist,9,4.3
+465,Masseur,1,3.6
+466,Masseuse,12,3.7
+467,Material Lister for a Construction Company,9,4.0
+468,Mathematical Engineering Technician,3,6.2
+469,Mathematician,4,6.2
+470,Mayor of a Large City,1,7.2
+471,Meat Cutter in a Meat Cutting Plant,2,3.6
+472,Meat Grader,2,3.7
+473,Mechanical Engineer,4,6.6
+474,Mechanical Trouble Shooter,2,4.5
+475,Mechanic's Helper,2,3.4
+476,Medical Technician,0,5.7
+477,Medical Transcriber,11,4.9
+478,Medical-Record Librarian in a Hospital,6,4.9
+479,Member of a City Council,1,5.6
+480,Member of a Rock Band,11,4.1
+481,Member of the Board of Directors of a Large Corporation,3,6.9
+482,Merchandise Buyer for a Department Store,6,4.5
+483,Merchant Seaman,7,4.5
+484,Metal Caster in a Foundry,4,3.7
+485,Metal Engraver,6,4.3
+486,Metal Plater,11,3.7
+487,Metal Solderer,8,3.9
+488,Metallurgical Engineer,3,6.0
+489,Metal-Stamping-Machine Operator,9,4.2
+490,Meteorologist,7,5.9
+491,Meter Maid,7,3.2
+492,Meter Reader for a Gas or Electric Company,5,4.4
+493,Midwife,11,5.0
+494,Migrant Worker,5,2.7
+495,Milk Tester,11,3.7
+496,Milliner,1,3.5
+497,Milling Machine Operator,1,3.8
+498,Millwright,4,3.7
+499,Mining Engineer,5,5.8
+500,Minister,2,6.3
+501,Mobile Home Installer,4,4.0
+502,Mobile Home Park Manager,8,3.3
+503,Mold Maker in Foundry,2,4.0
+504,Molding Machine Operator,3,4.0
+505,Motel Owner,1,4.9
+506,Motion Picture Projectionist,6,4.1
+507,Museum Curator,8,5.3
+508,Museum Security Chief,7,4.2
+509,Musician in a Symphony Orchestra,0,5.6
+510,My Own Occupation,4,5.4
+511,Mystery Shopper,3,2.9
+512,Narcotics Investigator,12,5.6
+513,Natural Childbirth and Infant Care Instructor,8,4.9
+514,Network Administrator,12,5.8
+515,Network Support Technician,9,5.0
+516,Newspaper Peddler,9,2.9
+517,Newspaper Proofreader,4,4.5
+518,Nuclear Plant Operator,9,6.3
+519,Nuclear Technician,4,7.0
+520,Nurse Anesthetist,1,6.4
+521,Nurse Practitioner,12,6.6
+522,Nursery School Teacher,4,5.3
+523,Nut Roaster,3,2.9
+524,Obstetrician/Gynecologist,9,7.0
+525,Occupational Rehabilitation Aide,8,5.1
+526,Occupational Therapist,3,5.9
+527,Office Helper for a Hospital,1,4.3
+528,Office Supervisor,7,5.0
+529,Office Systems Analyst,12,5.2
+530,Oil Exploration Engineer,7,6.0
+531,Oil Refining Equipment Operator,12,4.9
+532,Oil Rig Worker,12,4.6
+533,Oil Well Pumper,10,4.4
+534,Oil-Well Driller,11,5.1
+535,Operations Analyst,2,5.1
+536,Optician,7,5.8
+537,Optometrist,6,6.6
+538,Orange Grove Picker,10,3.2
+539,Orange Grower,9,4.6
+540,Order Expediter for a Wholesale Business,8,4.5
+541,Ore Train Motorman,1,3.7
+542,Organizer for a Religious Crusade,3,4.0
+543,Orthopedic Brace Maker,8,5.3
+544,Owner of a Bowling Alley,4,4.5
+545,Owner of a Check Cashing Service,6,4.0
+546,Owner of a Computer Software Company,4,6.2
+547,Owner of a Day Care Center,6,4.9
+548,Owner of a Filling Station and Garage,12,4.8
+549,Owner of a Local Bus Company,7,5.1
+550,Owner of a Local Radio Station,11,5.0
+551,Owner of a Mail Order House,6,4.4
+552,Owner of a Manufacturing Plant,10,6.3
+553,Owner of an Apparel Factory,12,5.6
+554,Owner of an Art Gallery,9,5.5
+555,Owner-Operator of a Printing Shop,11,4.8
+556,Oxygen Therapist,5,5.9
+557,Packer in a Wholesale Vegetable Market,8,3.1
+558,Paid Campaign Staff Member,4,4.3
+559,Panhandler,5,2.1
+560,Paper Embossing Machine Operator,10,4.1
+561,Paper Tester in a Pulp Mill,10,3.7
+562,Paperhanger,10,3.5
+563,Paper-Making Machine Tender,12,3.7
+564,Para-Legal,6,5.1
+565,Paramedic,4,6.0
+566,Park Superintendent,8,4.6
+567,Parking Enforcement Officer,8,3.4
+568,Parking Lot Attendant,1,2.4
+569,Parole Officer,7,4.8
+570,Party Caterer,7,3.9
+571,Passenger Service Representative,12,3.9
+572,Pathology Technician,2,5.9
+573,Pattern Maker in a Metal Shop,5,4.9
+574,Payroll Clerk,6,4.3
+575,Payroll Supervisor,8,4.7
+576,Pedicab Operator,7,3.3
+577,Personal Financial Planner,6,6.0
+578,Personnel Director,8,5.2
+579,Personnel Recruiter,10,4.4
+580,Pharmaceutical Representative,3,5.7
+581,Pharmacist,8,6.7
+582,Pharmacist Technician,3,5.6
+583,Photo-Booth Operator,2,3.1
+584,Photocopying-Machine Operator,3,3.3
+585,Photoengraver,4,3.8
+586,Photograph Developer,2,3.9
+587,Photographer,2,4.8
+588,Physical Therapist,4,6.2
+589,Physical Therapy Assistant,11,5.4
+590,Physician,11,7.6
+591,Physician's Assistant,1,6.0
+592,Physicist,6,6.9
+593,Piano Tuner,8,3.7
+594,Pile-Driver Operator,3,3.9
+595,Pill Machine Operator in a Pharmaceutical Plant,6,4.4
+596,Plaster Mold Maker,8,3.3
+597,Plasterer,1,3.3
+598,Playground Director,5,4.2
+599,Playground Monitor,11,3.2
+600,Plumber,11,4.7
+601,Podiatrist,2,6.1
+602,Poker Room Supervisor,6,3.3
+603,Pole Climber for a Telephone Company,5,4.3
+604,Police Lieutenant,4,6.4
+605,Police Officer,3,5.9
+606,Policeman,4,6.0
+607,Pollution Control Engineer,7,5.8
+608,Post Office Clerk,6,4.6
+609,Post Office Mail Sorter,8,4.0
+610,Postmaster,5,5.8
+611,Potato Chip Fryer,9,2.9
+612,Potato-Chip-Sacking-Machine Operator,9,3.0
+613,Poultry Raiser,12,4.0
+614,Power Crane Operator,5,4.9
+615,Power Plant Operator,8,5.2
+616,Preparer of Clothing Patterns,10,4.3
+617,Prescription Clerk,12,4.5
+618,Priest,1,6.3
+619,Printing Press Operator,6,4.0
+620,Prison Guard,10,4.2
+621,Private Detective,7,5.0
+622,Professional Athlete,8,6.2
+623,Professional Babysitter,5,4.2
+624,Professionally Trained Forester,4,4.6
+625,Professionally Trained Health Therapist,7,5.9
+626,Professionally Trained Librarian,10,5.4
+627,Professor of Biology in a College or University,2,6.9
+628,Professor of Business Administration in a College or University,12,6.9
+629,Professor of English in a College or University,1,6.3
+630,Professor of History in a College or University,9,6.5
+631,Professor of Physics in a College or University,11,7.2
+632,Professor of Psychology in a College or University,3,7.0
+633,Proprietor of a Shoe Repair Shop,1,3.9
+634,Prosthetic Aide,3,4.9
+635,Psychiatrist,12,6.6
+636,Psychologist,2,6.4
+637,Public Grade School Teacher,0,5.8
+638,Public Health Analyst,5,6.0
+639,Public Health Educator in a Clinic,9,5.9
+640,Public Opinion Pollster,1,3.9
+641,Public Relations Director,8,5.1
+642,Public Relations specialist,8,5.1
+643,Public Safety Director,7,5.3
+644,Public-Address Announcer at a Train Station,3,3.4
+645,Pump Operator,11,3.4
+646,Pump-House Engineer,9,4.9
+647,Purchasing Clerk,1,3.9
+648,Purchasing Manager for a Business,4,5.0
+649,Pushcart Vendor,11,2.8
+650,Quality Checker in a Manufacturing Plant,3,4.7
+651,Quality Control Engineer,1,6.0
+652,Radiation Control Engineer in a Power Plant,6,6.3
+653,Radiation Therapist,10,6.2
+654,Radio operator,12,4.5
+655,Radio Tester,10,3.8
+656,Rail Track Repairer,9,4.4
+657,Railroad Conductor,6,5.1
+658,Railroad Detective,9,4.8
+659,Railroad Signal Mechanic,5,4.9
+660,Railroad Signal-Tower Operator,4,4.4
+661,Railroad Switchman,5,4.8
+662,Railroad Ticket Agent,1,3.4
+663,Railway Equipment Operator,3,4.8
+664,Real Estate Agent,7,4.9
+665,Real Estate Appraiser,5,5.4
+666,Rebar (Reinforcing Iron Bar) Worker,4,3.9
+667,Receptionist,12,4.1
+668,Record Keeper,4,4.4
+669,Refrigerating Machine Operator,1,3.8
+670,Regional Manager for a Bus Company,5,5.1
+671,Registered Nurse,9,6.5
+672,Resource Management Director,12,5.6
+673,Restaurant Critic for a Newspaper,5,4.6
+674,Restaurant Hostess,3,3.7
+675,Restaurant Owner,11,5.2
+676,Rolling Mill Operator in a Metal Shop,8,4.0
+677,Roof Bolter In Mine,11,4.0
+678,Roofer,2,3.9
+679,Rubber Mold Maker,9,3.8
+680,Rubber-Stamp Maker,8,2.8
+681,RV (Recreational Vehicle) Mechanic,11,4.2
+682,Sailor in Navy,6,5.8
+683,Salad Maker in a Hotel Kitchen,1,2.7
+684,Sales Clerk in a Store,5,3.7
+685,Sales Engineer,8,5.1
+686,Salesperson in a Furniture Store,7,3.6
+687,Salesperson in a Hardware Store,8,3.3
+688,Salesperson in a Shoe Store,10,3.3
+689,Salesperson in a Store,9,3.9
+690,Salesperson in an Appliance Store,4,3.5
+691,Saloonkeeper,9,3.6
+692,Sample Collector in a Chemical Plant,2,4.6
+693,Sample Collector in a Pulp Mill,12,3.5
+694,Sandfill Operator in a Mine,1,3.6
+695,Satellite Communications Operator,6,5.5
+696,Sausage Mixer,5,3.4
+697,Saw Sharpener,11,3.1
+698,Scaffold Builder,10,3.8
+699,Scale Attendant,10,3.7
+700,School Counselor,10,5.8
+701,School Principal,4,6.5
+702,School Superintendent,5,6.2
+703,School-Crossing Guard,9,4.1
+704,Scrap Sorter in a Shoe Factory,7,3.0
+705,Secret Service Agent,5,6.7
+706,Secretary,0,4.6
+707,Security Guard in a Bank,8,3.7
+708,Seed Analyst,11,4.2
+709,Seismic Observer of Earthquakes,2,6.3
+710,Semiconductor Assembler,12,4.1
+711,Semi-Skilled Worker,9,4.0
+712,Septic Tank Cleaner,10,3.4
+713,Sergeant,2,5.9
+714,Service Station Manager,10,4.4
+715,Sewing Machine Assembler,7,3.4
+716,Sewing Machine Operator,11,3.6
+717,Sheet-Metal Duct Installer,3,3.8
+718,Sheet-Rock Installer,4,3.8
+719,Shelf Stocker in a Grocery Store,1,2.8
+720,Ship Fitter Apprentice,5,4.2
+721,Ship Steward,5,4.4
+722,Shipping Clerk,10,3.9
+723,Ship's Captain,10,6.1
+724,Shoemaker,12,3.7
+725,Shoeshiner,9,2.6
+726,Short-Order Cook,11,3.3
+727,Sightseeing Guide,4,3.5
+728,Sign Painter,1,3.3
+729,Skilled Craftsman in a Factory,11,4.9
+730,Skilled Craftsman in a Metalworking Shop,2,4.9
+731,Skip-Hoist Operator,7,3.6
+732,Skycap,2,3.7
+733,Slot Machines Operations Director,3,3.9
+734,Social Scientist,5,6.2
+735,Social Security Administrator,4,5.7
+736,Social Worker,11,5.3
+737,Sociologist,3,6.1
+738,Soda Jerk,4,2.3
+739,Solar Panel Installer,6,4.4
+740,Soldier,7,6.1
+741,Sound Mixer in a Television Station,1,4.5
+742,Special Education Teacher,12,6.0
+743,Speech Therapist,6,5.7
+744,Spotlight Operator,7,3.3
+745,Spray Painter in a Manufacturing Plant,12,3.7
+746,Stapling-Machine Operator in a Furniture Factory,7,3.3
+747,Statistical Clerk,12,4.2
+748,Statistician,5,5.4
+749,Steam Boiler Fireman,10,4.7
+750,Steam Cleaner for a Used Car Lot,9,3.0
+751,Steam Presser in a Garment Factory,10,3.6
+752,Steam-Shovel Operator,2,4.3
+753,Steel Rigger on a Construction Job,1,4.5
+754,Steel Temperer,10,4.3
+755,Stencil Cutter,6,3.3
+756,Stenographer,7,4.3
+757,Stock and Bond Salesman,12,5.6
+758,Stock Taker in a Department Store,11,3.4
+759,Stockroom Attendant,12,3.0
+760,Stockroom Manager,6,4.0
+761,Street Corner Drug Dealer,3,1.9
+762,Street sweeper,12,3.0
+763,Street-Sweeper Operator,2,3.3
+764,Student Admissions Clerk,5,4.4
+765,Subway Operator,2,4.0
+766,Superintendent of a Construction Job,2,5.2
+767,Supervisor in a Auto Repair Shop,7,4.5
+768,Supervisor in a Logging Operation,6,5.0
+769,Supervisor in a Machine Shop,5,5.1
+770,Supervisor of a Branch Telephone Exchange,10,4.3
+771,Supervisor of a Janitorial Service,10,4.0
+772,Supervisor of a Truck Delivery Service,9,4.7
+773,Supervisor of Skilled Craftsmen,6,5.2
+774,Surgeon,10,7.7
+775,Surveyor,7,4.6
+776,Swap Meet Vendor,12,2.8
+777,Table Clearer in a Restaurant,8,2.3
+778,Tailor,3,4.4
+779,Tank Crew Member,4,4.1
+780,Tax Collector,8,4.1
+781,Taxicab Driver,12,3.2
+782,Teacher's Aide in an Elementary School,11,4.9
+783,Technician,6,5.1
+784,Technician Drawing Blood,2,5.1
+785,Telegraph Operator,1,3.8
+786,Telephone Installer,9,4.3
+787,Telephone Operator,12,3.6
+788,Telephone Solicitor,0,2.5
+789,Telephone-Answering-Service Operator,11,3.1
+790,Temporary Clerk in an Office,2,2.9
+791,Tenant Farmer,10,3.9
+792,Termite Exterminator,2,3.9
+793,Theater Usher,8,2.6
+794,Theatrical Agent,2,4.6
+795,Timber Buyer for a Pulp Mill,4,4.1
+796,Time-Motion Analyst,2,4.9
+797,Tire Retreader,1,2.8
+798,Tire-Mold Engraver,2,3.5
+799,Toll Bridge Collector,12,3.3
+800,Tombstone Carver,7,3.9
+801,Tool and Die Maker,7,4.1
+802,Tool Programmer in a Manufacturing Plant,6,5.1
+803,Tool Sharpener,1,2.8
+804,Toolroom Helper in a Chain Saw Factory,4,3.1
+805,Toy Manufacturer,1,4.4
+806,Trailer Truck Driver,9,4.4
+807,Train Attendant,4,4.2
+808,Transit Authority Police,10,5.0
+809,Trash Hauler,10,3.6
+810,Travel Agent,1,4.1
+811,Traveling Salesman for a Wholesale Concern,4,3.5
+812,Tree Surgeon,3,4.0
+813,Truck Dispatcher,4,3.7
+814,Truck Driver's Helper,2,3.4
+815,Turpentine Distiller,2,3.4
+816,TV Anchor,6,5.8
+817,TV Announcer,1,5.2
+818,TV Director,7,5.6
+819,TV Repairman,2,4.0
+820,Typesetter,5,3.9
+821,Typist,5,3.8
+822,Union Organizer,9,4.6
+823,Unskilled Worker in a Factory,7,2.8
+824,Upholsterer,11,3.8
+825,Urban Planner,4,5.5
+826,Used Car Salesman,6,3.5
+827,Vending Machine Coin Collector,9,3.1
+828,Veneer Glue Spreader,3,3.1
+829,Veterinarian,8,6.4
+830,Veterinarian Assistant,1,4.5
+831,Video Game Repairer in Arcade,3,3.4
+832,Waiter in a Restaurant,5,3.6
+833,Waitress in a Restaurant,6,3.6
+834,Warehouse Hand,11,3.2
+835,Watch Assembler,7,3.8
+836,Watch-Crystal Grinder,12,3.6
+837,Water Well Driller,1,4.4
+838,Water Well Drilling Roughneck,12,4.1
+839,Water-Pollution Specialist,9,5.5
+840,Web Designer,8,5.4
+841,Weight Station Operator,9,3.9
+842,Welder,0,4.2
+843,Wildlife Officer,6,5.0
+844,Wildlife Technician,12,4.8
+845,Wind Turbine Mechanic,2,4.9
+846,Window Display Artist,2,4.0
+847,Window Glass Installer,7,3.8
+848,Windshield Installer,8,3.1
+849,Wire Pulling Machine Operator,12,4.0
+850,Wood Carver,8,3.9
+851,Wood Lathe Operator,7,4.1
+852,Wood Miller,6,4.0
+853,Wood Technologist,9,4.4
+854,Wood-Model Maker,5,4.1
+855,Word Processor,6,4.2
+856,Writer of Technical Manuals,9,5.4
+857,X-ray Technician,3,5.7
+858,Yarn Spinner in a Textile Mill,8,3.0
+859,Yeast Maker,10,3.8
